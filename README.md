@@ -53,6 +53,22 @@ git clone https://github.com/mohdfaaiz1307/Blinkit-Analysis.git
 
 ---
 
+## 📷 Dashboard Preview
+
+---
+
+![image](https://github.com/user-attachments/assets/9cca7fd7-177e-4e6b-9220-9e34ff802ee8)
+
+
+![image](https://github.com/user-attachments/assets/3493a15a-b91a-4bb3-8858-3a2791feeb0d)
+
+
+
+---
+
+
+---
+
 ## 📌 Tools Used
 
 - **Power BI Desktop**
